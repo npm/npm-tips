@@ -8,6 +8,7 @@ We are here to help. <support@npmjs.com>
 We are [probably hiring](https://www.npmjs.com/jobs)
 This website is [open source](https://github.com/npm/newww)
 New to npm? [This tutorial may help.](http://npm.im/how-to-npm)
+New to semver? Try [semver.npmjs.com](http://semver.npmjs.com/)
 You can use `http://npm.im/<packagename>` to link to packages.
 You can run any script using `npm run [script name]` with the [scripts property](https://docs.npmjs.com/misc/scripts)
 `npm start` is a shortcut for `npm run start`
