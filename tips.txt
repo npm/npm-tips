@@ -9,3 +9,4 @@ We are [probably hiring](https://www.npmjs.com/jobs)
 This website is [open source](https://github.com/npm/newww)
 New to npm? [This tutorial may help.](http://npm.im/how-to-npm)
 You can use `http://npm.im/<packagename>` to link to packages.
+You can install GitHub repos with `npm i org-name/repo-name`
