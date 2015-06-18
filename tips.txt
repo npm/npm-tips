@@ -1,4 +1,4 @@
-`npm i` is the same as `npm install`
+`npm i [-S or -D]` is the same as `npm install [--save or --save-dev]`
 `npm version patch` to bump your package version
 `npm publish --access=public` to publish open source scoped modules
 Get your package started with `npm init`
