@@ -1,6 +1,7 @@
+`npm run foo` will also run `prefoo` and `postfoo` if you have them
 `npm i [-S or -D]` is the same as `npm install [--save or --save-dev]`
-Use `npm version patch` to bump your package version
-Use `npm publish --access=public` to publish open source scoped modules
+`npm version patch` to bump your package version
+`npm publish --access=public` to publish open source scoped modules
 Get your package started with `npm init`
 Put a test script in your package.json. Use `npm t` to run it
 You can [contribute more tips](https://github.com/npm/npm-tips)
