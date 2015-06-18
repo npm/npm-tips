@@ -1,6 +1,6 @@
 `npm i [-S or -D]` is the same as `npm install [--save or --save-dev]`
-Use `npm version patch` to bump your package version
-Use `npm publish --access=public` to publish open source scoped modules
+Bump your package version with `npm version patch`
+Publish an open source scoped package with `npm publish --access=public`
 Get your package started with `npm init`
 Put a test script in your package.json. Use `npm t` to run it
 You can [contribute more tips](https://github.com/npm/npm-tips)
