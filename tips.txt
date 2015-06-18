@@ -1,0 +1,11 @@
+`npm i` is the same as `npm install`
+`npm version patch` to bump your package version
+`npm publish --access=public` to publish open source scoped modules
+Get your package started with `npm init`
+Put a test script in your package.json. Use `npm t` to run it
+You can [contribute more tips](https://github.com/npm/npm-tips)
+We are here to help. <support@npmjs.com>
+We are [probably hiring](https://www.npmjs.com/jobs)
+This website is [open source](https://github.com/npm/newww)
+New to npm? [This tutorial may help.](http://npm.im/how-to-npm)
+You can use `http://npm.im/<packagename>` to link to packages.

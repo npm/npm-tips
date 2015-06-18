@@ -1,0 +1,22 @@
+{
+  "name": "npm-tips",
+  "version": "0.0.0",
+  "description": "A collection of short (5 words or so) tips and tricks that can be sprinkled about the npm site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/npm-tips.git"
+  },
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm/npm-tips/issues"
+  },
+  "homepage": "https://github.com/npm/npm-tips#readme",
+  "devDependencies": {
+    "tap": "^1.2.0"
+  }
+}
