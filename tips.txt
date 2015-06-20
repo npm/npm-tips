@@ -1,4 +1,5 @@
 `npm i [-S or -D]` is the same as `npm install [--save or --save-dev]`
+`npm ls --depth 0` to list installed packages
 Bump your package version with `npm version patch`
 Publish an open source scoped package with `npm publish --access=public`
 `npm help <command>` tells you what any command does
