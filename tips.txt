@@ -14,3 +14,6 @@ You can use `http://npm.im/<packagename>` to link to packages.
 You can run any script using `npm run <script name>` with the [scripts property](https://docs.npmjs.com/misc/scripts)
 `npm start` is a shortcut for `npm run start`
 Use #<branch> to specify git branch to install i.e. `git://github.com/<user>/<project>.git#<branch>`
+`npm config set save-exact=true` will save dependencies without funny fuzzy characters `^|*|~`
+[grunt-nice-package](https://www.npmjs.com/package/grunt-nice-package) can validate you `package.json`
+[next-update](https://www.npmjs.com/package/next-update) can unit test available 3rd party updates
