@@ -16,3 +16,4 @@ You can run any script using `npm run [script name]` with the [scripts property]
 `npm start` is a shortcut for `npm run start`
 Use `#<branch>` to specify git branch to install. eg: `github://user/project#<branch>`
 You can install GitHub repos with `npm i org-name/repo-name`
+`npm init -y` will create a package.json file using your default values
