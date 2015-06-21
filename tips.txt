@@ -14,7 +14,7 @@ New to npm? [This tutorial may help.](http://npm.im/how-to-npm)
 New to semver? Try [semver.npmjs.com](http://semver.npmjs.com/)
 You can use `http://npm.im/<packagename>` to link to packages.
 You can run any script using `npm run [script name]` with the [scripts property](https://docs.npmjs.com/misc/scripts)
-You can run binaries from locally-installed dependencies [without `node_modules/.bin` prefix](https://docs.npmjs.com/cli/run-script).
+`npm run` adds `node_modules/.bin` to the PATH provided to scripts
 `npm start` is a shortcut for `npm run start`
 Use `#<branch>` to specify git branch to install. eg: `github://user/project#<branch>`
 You can install GitHub repos with `npm i org-name/repo-name`
