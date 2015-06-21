@@ -14,5 +14,5 @@ New to semver? Try [semver.npmjs.com](http://semver.npmjs.com/)
 You can use `http://npm.im/<packagename>` to link to packages.
 You can run any script using `npm run [script name]` with the [scripts property](https://docs.npmjs.com/misc/scripts)
 `npm start` is a shortcut for `npm run start`
-Use #<branch> to specify git branch to install i.e. `git://github.com/<user>/<project>.git#<branch>`
+Use `#<branch>` to specify git branch to install. eg: `github://user/project#<branch>`
 You can install GitHub repos with `npm i org-name/repo-name`
