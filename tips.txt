@@ -18,3 +18,4 @@ Use `#<branch>` to specify git branch to install. eg: `github://user/project#<br
 You can install GitHub repos with `npm i org-name/repo-name`
 `npm init -y` will create a package.json file using your default values
 `npm docs <packagename>` opens package docs in a web browser
+Regularly update npm with `npm i -g npm`
