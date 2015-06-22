@@ -21,3 +21,4 @@ You can install GitHub repos with `npm i org-name/repo-name`
 `npm docs <packagename>` opens package docs in a web browser
 Regularly update npm with `npm i -g npm`
 Avoid `sudo` by [setting a global root directory](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
+`npm ru [script name]` is the same as `npm run [script name]`
