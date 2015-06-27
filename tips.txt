@@ -22,3 +22,5 @@ You can install GitHub repos with `npm i org-name/repo-name`
 `npm docs <packagename>` opens package docs in a web browser
 Regularly update npm with `npm i -g npm`
 Avoid `sudo` by [setting a global root directory](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
+You can configure npm to use a proxy, `npm config set proxy http://proxy.company.com:8080` and `npm config set https-proxy http://proxy.company.com:8080`.
+If you are using VPN client, consider to configure it to open an http proxy and tunnel your npm trafic in it.
